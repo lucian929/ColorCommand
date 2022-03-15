@@ -1,0 +1,5 @@
+name: ColorCommand
+version: '${version}'
+main: com.luciandev.ColorCommand
+api-version: 1.18
+authors: [ Raindropz ]
